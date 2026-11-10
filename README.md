@@ -16,6 +16,19 @@ project is governed.
 
 ## Participate
 
+- [Roadmap](https://caipe.io/roadmap)
+- [Adopters](https://github.com/caipe-io/ai-platform-engineering/blob/main/ADOPTERS.md)
+- [CNCF Slack community channel](https://cloud-native.slack.com/archives/C08N0AKR52S)
+- [Join CNCF Slack](https://slack.cncf.io/)
+
+### Community meetings
+
+Weekly community meetings are open to contributors and users. See the
+[meeting schedule and calendar](https://github.com/caipe-io/ai-platform-engineering#-weekly-meetings)
+and [meeting recordings](https://caipe.io/docs/community/meeting-recordings).
+
+### Questions and proposals
+
 Questions, ideas, governance work, and ordinary bugs belong in public
 [GitHub Discussions](https://github.com/caipe-io/governance/discussions) or
 issues. Security vulnerabilities are reported privately under the
